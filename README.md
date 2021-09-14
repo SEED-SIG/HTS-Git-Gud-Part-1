@@ -6,6 +6,7 @@ Fore more information, links and references, refer to the sections below.
 
 ## Links
 1. [Google Slides](https://docs.google.com/presentation/d/1H-i852267KNReSXkSLu-mqV3ou0hb4dF1dfX9wRCknE/edit?usp=sharing)
+2. [Codes](./codes/README.md)
 
 ## References
 1. [Atlassian Learn Git](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
