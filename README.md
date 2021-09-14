@@ -11,8 +11,7 @@ Fore more information, links and references, refer to the sections below.
 ### Tools
 1. [Github Desktop](https://desktop.github.com/)
 2. [Git Kraken](https://www.gitkraken.com/)
-3. [Git Graph](https://github.com/mhutchie/vscode-git-graph)
-4. [Git Lens](https://github.com/eamodio/vscode-gitlens)
+3. [Git Lens](https://github.com/eamodio/vscode-gitlens)
 
 ## References
 1. [Atlassian Learn Git](https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud)
