@@ -1,4 +1,4 @@
-# SEED-Talks-Repo
+# HTS-Git-Gud-Part-1
 
 This repo contains the materials for the SEED "HOW TO" talks series, Git Gud Part 1.  
 You can find the slides used and any relevant material in this repo itself.  
